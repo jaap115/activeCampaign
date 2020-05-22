@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Evgeni Nurkov",
-            "email": "evgeni.nurkov@gmail.com"
+            "name": "Jaap van Eggelen",
+            "email": "jaapvaneggelen@gmail.com"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Gentor\\ActiveCampaign\\": "src/"
+            "jaap115\\ActiveCampaign\\": "src/"
         }
     },
     "minimum-stability": "dev"
