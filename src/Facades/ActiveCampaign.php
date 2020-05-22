@@ -1,11 +1,11 @@
 <?php
 
-namespace Gentor\ActiveCampaign\Facades;
+namespace jaap115\ActiveCampaign\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Gentor\ActiveCampaign\ActiveCampaignService
+ * @see \jaap115\ActiveCampaign\ActiveCampaignService
  */
 class ActiveCampaign extends Facade
 {

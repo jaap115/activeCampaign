@@ -1,6 +1,6 @@
 <?php
 
-namespace Gentor\ActiveCampaign;
+namespace jaap115\ActiveCampaign;
 
 
 use Illuminate\Support\ServiceProvider;
